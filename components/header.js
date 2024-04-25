@@ -5,7 +5,7 @@ const Header = () => {
     <header
       className={`fixed w-full left-0 top-0 bg-blue-500 text-white py-6 px-10 flex items-center justify-between`}
     >
-      <h1 className={`font-bold`}>XenTravels</h1>
+      <h1 className={`font-bold`}>SSR tes</h1>
       <ul className={'flex'}>
         <li>
           <Link
